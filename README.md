@@ -2,7 +2,6 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SaifRehman99/openproject/)
 
-
 # OpenProject
 [<img src="https://travis-ci.org/opf/openproject.svg?branch=dev" alt="Build Status" />](https://travis-ci.org/opf/openproject)
 [![Code Climate](https://codeclimate.com/github/opf/openproject/badges/gpa.svg)](https://codeclimate.com/github/opf/openproject)
